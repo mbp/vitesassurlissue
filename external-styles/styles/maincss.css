@@ -1,0 +1,6 @@
+div.logo4 {
+	width: 200px;
+	height: 100px;
+	background-image: url('../assets/logo4.png');
+	border: 1px solid black;
+}
